@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(53, 39, 39);
+}
+
+h2{
+
+    color: white;
+    text-align: center;
+}
+
+.grid-container{
+    display: grid;
+    grid-template-columns: 80% 20%;
+}
+
+.home {
+    padding: 15px;
+    background-color: black;
+    color: darkgray;
+}
+
+
+.redes{
+    background-color: rgb(53, 39, 39);
+    text-align: center;
+    /* margin: 10px; */
+    font-size: 30px;
+}
+
+.redes a{
+    display: inline-block;
+    /* text-decoration: none;
+    background-color: black; */
+    /* color: blue;
+    border: 1px solid blue; */
+    /* border-radius: 50%; */
+    width: 40px;
+    line-height: 40px;
+
+}
